@@ -1,0 +1,2 @@
+# jobminer
+XMR Miner
